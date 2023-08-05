@@ -1,1 +1,1 @@
-<!-- Namaste React Tutorial 1 -->
+Namaste React Tutorial 1
